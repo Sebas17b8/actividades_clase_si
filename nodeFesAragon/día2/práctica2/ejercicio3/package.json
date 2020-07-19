@@ -1,0 +1,21 @@
+{
+  "name": "letras_color",
+  "version": "0.1.0",
+  "description": "Es un ejemplo de como crear un proyecto de forma adecuada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "env FORCE_COLOR=1 node index.js"
+  },
+  "keywords": [
+    "ico",
+    "sisinfo",
+    "letras",
+    "color"
+  ],
+  "author": "Sebas17b8",
+  "license": "MIT",
+  "dependencies" : {
+    "chalk-animation" : "*"
+  }
+}
